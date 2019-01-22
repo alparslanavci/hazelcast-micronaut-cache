@@ -9,4 +9,5 @@ public class HazelcastProperty {
     public static final String PREFIX = "hazelcast";
     public static final String CACHES = PREFIX + ".caches";
     public static final String INSTANCE_TYPE = PREFIX + ".caches";
+    public static final String ENABLED = ".enabled";
 }
